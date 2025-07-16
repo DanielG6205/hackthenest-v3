@@ -5,10 +5,11 @@ import { useEffect } from "react";
 import Link from "next/link"
 import useHackerText from "utils/useHackerText";
 
+
 const FrontSection = () => {
   const [name, animateName] = useHackerText("Hack the Nest");
-  const [date, animateDate] = useHackerText("4.05.25 - 4.06.25");
-  const [location, animateLocation] = useHackerText("Tysons Corner, VA");
+  const [date, animateDate] = useHackerText("09.20.25 - 09.21.25");
+  const [location, animateLocation] = useHackerText("UMBC (Baltimore, MD)");
   const [register, animateRegister] = useHackerText("Register Now!");
 
   useEffect(() => {

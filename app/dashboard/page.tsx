@@ -41,8 +41,8 @@ const Dashboard = async ({ searchParams }: Props) => {
           </div>
           <div className="flex w-full flex-col gap-8">
             <DashboardButton
-              name="hacker registration"
-              href="/app/hacker"
+              name="hacker registration coming soon"
+              href="/dashboard" // app/hacker
               status={
                 completed(user.completed, "HACKERAPP")
                   ? "COMPLETE"
@@ -50,8 +50,8 @@ const Dashboard = async ({ searchParams }: Props) => {
               }
             />
             <DashboardButton
-              name="volunteer registration"
-              href="/app/volunteer"
+              name="volunteer registration coming soon"
+              href="/dashboard" // app/volunteer
               status={
                 completed(user.completed, "VOLUNTEERAPP")
                   ? "COMPLETE"
@@ -59,8 +59,8 @@ const Dashboard = async ({ searchParams }: Props) => {
               }
             />
             <DashboardButton
-              name="rsvp"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSfrWshTK47aKoFiT1wulM4JW_czmCoN2E-S_KqBO9VWmIF26Q/viewform?usp=dialog"
+              name="rsvp coming soon"
+              href="/dashboard" // https://docs.google.com/forms/d/e/1FAIpQLSfrWshTK47aKoFiT1wulM4JW_czmCoN2E-S_KqBO9VWmIF26Q/viewform?usp=dialog
               status="INCOMPLETE"
             />
           </div>

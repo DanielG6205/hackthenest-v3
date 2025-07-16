@@ -8,17 +8,17 @@ const AboutSection = () => {
       </div>
       <article className="-mx-8 flex flex-col rounded-r-3xl bg-black p-8 text-xl text-white sm:rounded-3xl sm:rounded-tl-none md:flex-row">
         {/* <div className="xl:w-1/2"> */}
-        This April, join 200 hackers for the DMV area&apos;s largest high
+        This September, join 300 hackers for the DMV area&apos;s largest high
         school hackathon. Hack the Nest is a collaborative coding event where
         participants (also called hackers) bring their innovative ideas to life
         in just one weekend. Whether it&apos;s 2am-debugging with cookies or
-        karaoke, our ultimate goal is to host an unforgettable experience for an
+        a talent show, our ultimate goal is to host an unforgettable experience for an
         audience normally barred from hackathons.
       </article>
       <div className="my-8 grid gap-8 sm:grid-cols-2 xl:grid-cols-4">
-        <Stat stat="24" caption="hours">
-          Hack the Nest is a 24-hour event starting the morning of Saturday,
-          April 5 and ending around noon of Sunday, April 6.
+        <Stat stat="30" caption="hours">
+          Hack the Nest is a 30-hour event starting the morning of Saturday,
+          September 20 and ending around noon of Sunday, September 21.
         </Stat>
         <Stat stat="200" caption="hackers">
           Hack the Nest will be the DMV area&apos;s (and one of the
@@ -28,7 +28,7 @@ const AboutSection = () => {
         </Stat>
         <Stat stat="$12,000+" caption="prizes">
           Winning teams will receive prizes from a $12,000+ prize pool!
-          Below is a tentative preview:
+          Below is a from our last hackathon:
           <div className="my-2">
             <p className="font-medium">Grand Prize</p>
             <p>$600, $200 X-Camp Credit (x4)</p>
@@ -58,7 +58,7 @@ const AboutSection = () => {
           {/* Our full list of prizes is now available on{" "}
           <a href="https://hackthenest-2023.devpost.com" className="underline">Devpost</a>. */}
         </Stat>
-        <Stat stat="10" caption="workshops & mini-events">
+        <Stat stat="10+" caption="workshops & mini-events">
           Don&apos;t miss our workshops and mini-events! Workshops are
           educational 30-60 minute interactive sessions on technical and
           non-technical topics catered towards hackers of all experience levels,
