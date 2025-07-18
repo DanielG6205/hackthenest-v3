@@ -10,7 +10,7 @@ const FrontSection = () => {
   const [name, animateName] = useHackerText("Hack the Nest");
   const [date, animateDate] = useHackerText("09.20.25 - 09.21.25");
   const [location, animateLocation] = useHackerText("UMBC (Baltimore, MD)");
-  const [register, animateRegister] = useHackerText("Register Now!");
+  const [register, animateRegister] = useHackerText("Registration Coming Soon!");
 
   useEffect(() => {
     animateName();
