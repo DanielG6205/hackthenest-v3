@@ -45,7 +45,7 @@ const SponsorsSection = () => {
           />
         </div> */}
         <Sponsor
-          src="/craignewmark.png"
+          src="/sponsors/craignewmark.png"
           alt="Craig Newmark Philanthropies Gold sponsorship"
           href="https://craignewmarkphilanthropies.org/"
           tier="gold"
@@ -77,57 +77,57 @@ const SponsorsSection = () => {
             href="https://www.intelligentoffice.com/"
             tier="silver"
           /> */}
-          <Sponsor
+         {/*  <Sponsor
             src="/x-camp.png"
             alt="X-Camp sponsorship"
             href="https://x-camp.academy/"
             tier="silver"
-          />
-          <Sponsor
+          /> */}
+         {/* <Sponsor
             src="/chagantifoundation.png"
             alt="Chaganti Foundation sponsorship"
             href="https://chagantifoundation.org/"
             tier="silver"
-          />
+          /> */}
         </div>
         {/* bronze */}
         <div className="grid grid-cols-3 gap-6">
-          <Sponsor
+         {/* <Sponsor
             src="/launchx.png"
             alt="LaunchX sponsorship"
             href="https://www.launchx.com/"
             tier="bronze"
-          />
-          <Sponsor
-            src="/aops.png"
+          /> */}
+         <Sponsor
+            src="/sponsors/aops.png"
             alt="AoPS sponsorship"
             href="https://artofproblemsolving.com/"
             tier="bronze"
           />
-          <Sponsor
+         {/* <Sponsor
             src="/sja.png"
             alt="SJA sponsorship"
             href="https://www.studentjusticealliance.org/"
             tier="bronze"
-          />
-          <Sponsor
+          /> */}
+          {/* <Sponsor
             src="/1password.png"
             alt="1Password sponsorship"
             href="https://1password.com/"
             tier="bronze"
-          />
-          <Sponsor
+          /> */}
+          {/* <Sponsor
             src="/interview-cake.svg"
             alt="Interview cake sponsorship"
             href="https://www.interviewcake.com/"
             tier="bronze"
-          />
-          <Sponsor
+          /> */}
+          {/* <Sponsor
             src="/intelligent-office.svg"
             alt="Intelligent Office bronze sponsorship"
             href="https://www.intelligentoffice.com/"
             tier="bronze"
-          />
+          />  */}
         </div>
         {/* <div className="grid grid-cols-3 gap-6">
           <Sponsor
