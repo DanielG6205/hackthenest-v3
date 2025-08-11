@@ -55,11 +55,11 @@ const questions: Question[][] = [
           Hack the Nest is being held in-person at{" "}
           <a
             className="cursor-pointer text-blue-light underline"
-            href="https://www.google.com/maps/dir/51.507351,-0.127758/UMBC+Information+Technology+and+Engineering+(ITE)+Building,+1000+Hilltop+Rd,+Baltimore,+MD+21250,+United+States/@43.4374053,-59.4588715,4z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x89c81dcbd9b9aa8d:0xa1ca7bbe8d0ec8f0!2m2!1d-76.7142732!2d39.2538015!3e0?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D"
+            href="https://www.google.com/maps/dir/?api=1&destination=1934+Old+Gallows+Rd+STE+350,+Vienna,+VA+22182&travelmode=driving"
           >
-            1000 Hilltop Rd, Baltimore, MD 21250, United States
+            1934 Old Gallows Rd Suite 350, Vienna, VA 22182
           </a>
-          . We&apos;re at the UMBC Information Technology and Engineering Building!
+          . We&apos;re on the 3rd floor of the Bank of America building, just across the street from Tysons Corner Center!
         </>
       ),
     },
