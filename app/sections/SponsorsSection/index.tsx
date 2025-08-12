@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Sponsor from "./Sponsor";
 
 const SponsorsSection = () => {
@@ -34,23 +35,46 @@ const SponsorsSection = () => {
             <h2 className="text-blue-dark">coming soon...</h2>
           </div>
         </div> */}
-
+        {/* Official Drink */}
+        <a
+          href="https://www.cokeconsolidated.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Coca-Cola Consolidated — Official Energy Drink"
+          className="h-56 cursor-pointer rounded-xl bg-red-light p- sm:p-5"
+        >
+          <div className="flex h-full flex-col items-center justify-center">
+            <div className="relative w-full flex-1">
+              <Image
+                src="/sponsors/2025/coca_cola_logo.png" 
+                alt="Coca-Cola Consolidated"
+                fill
+                sizes="50vw"
+                style={{ objectFit: "contain" }}
+                priority
+              />
+            </div>
+            <div className=" w-full mt-2 text-center text-lg font-bold sm:text-xl">
+              The Official Drink of Hack The Nest
+            </div>
+          </div>
+        </a>       
         {/* gold */}
-        {/* <div className="grid gap-6">
-          <Sponsor
+        <div className="grid gap-6">
+         {/*  <Sponsor
             src="/theCoderSchool.png"
             alt="theCoderSchool gold sponsorship"
             href="https://www.thecoderschool.com/"
             tier="gold"
-          />
-        </div> */}
+          /> */}
+        
         <Sponsor
-          src="/sponsors/craignewmark.png"
+          src="/sponsors/2025/craignewmark.png"
           alt="Craig Newmark Philanthropies Gold sponsorship"
           href="https://craignewmarkphilanthropies.org/"
           tier="gold"
         />
-
+        </div> 
         {/* silver */}
         <div className="grid grid-cols-2 gap-6">
           {/* <Sponsor
@@ -71,12 +95,12 @@ const SponsorsSection = () => {
             href="https://xtenav.com/"
             tier="silver"
           /> */}
-          {/* <Sponsor
-            src="/intelligent-office.svg"
+          <Sponsor
+            src="/sponsors/2025//intelligent-office.svg"
             alt="Intelligent Office silver sponsorship"
             href="https://www.intelligentoffice.com/"
             tier="silver"
-          /> */}
+          />
          {/*  <Sponsor
             src="/x-camp.png"
             alt="X-Camp sponsorship"
@@ -99,7 +123,7 @@ const SponsorsSection = () => {
             tier="bronze"
           /> */}
          <Sponsor
-            src="/sponsors/aops.png"
+            src="/sponsors/2025/aops.png"
             alt="AoPS sponsorship"
             href="https://artofproblemsolving.com/"
             tier="bronze"
@@ -110,24 +134,18 @@ const SponsorsSection = () => {
             href="https://www.studentjusticealliance.org/"
             tier="bronze"
           /> */}
-          {/* <Sponsor
-            src="/1password.png"
+          <Sponsor
+            src="/sponsors/2025/1password.png"
             alt="1Password sponsorship"
             href="https://1password.com/"
             tier="bronze"
-          /> */}
-          {/* <Sponsor
-            src="/interview-cake.svg"
+          /> 
+           <Sponsor
+            src="/sponsors/2025/interview-cake.svg"
             alt="Interview cake sponsorship"
             href="https://www.interviewcake.com/"
             tier="bronze"
-          /> */}
-          {/* <Sponsor
-            src="/intelligent-office.svg"
-            alt="Intelligent Office bronze sponsorship"
-            href="https://www.intelligentoffice.com/"
-            tier="bronze"
-          />  */}
+          /> 
         </div>
         {/* <div className="grid grid-cols-3 gap-6">
           <Sponsor

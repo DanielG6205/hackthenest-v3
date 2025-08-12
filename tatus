@@ -1,0 +1,2475 @@
+[33mcommit 1014e5aabb4db8620c98b7e65e45d17133717289[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Sun Aug 10 21:32:07 2025 -0400
+
+    rsvp link, opened everything, chagned back to tysons corner
+
+[33mcommit e171b912f8271055a64ddd0134557e83c75eefa4[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Fri Aug 1 17:59:12 2025 -0400
+
+    soft open registration, schedule changed to unknown, description changed
+
+[33mcommit ecb61fdbdcf81b15d51d21dc8807bf2321dfbd3b[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Mon Jul 21 18:30:24 2025 -0400
+
+    hacker and volunteer confirmation, closed registration for now
+
+[33mcommit da8bb0b3b502c1a6f78384708fd51a1821b116b6[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Sun Jul 20 17:04:52 2025 -0400
+
+    sponsors update and prospectus update
+
+[33mcommit 79eb4955c8de87235c9e7e14bf30c5c13ecd4e6b[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Sun Jul 20 16:06:12 2025 -0400
+
+    faq update + registration update
+
+[33mcommit e2035a2fb4112190459aa56ef2d7bd36bb7fee2d[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Thu Jul 17 20:04:26 2025 -0400
+
+    registration message and hopefully login works
+
+[33mcommit ff587ed3c599e3c87531f0b978762063bef5b62e[m
+Author: Daniel Gao <daniel.gao6205@gmail.com>
+Date:   Tue Jul 15 21:38:09 2025 -0400
+
+    first commit
+
+[33mcommit f59986eedd6f5a76bbf2c051c914b2482b608cba[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Fri Apr 4 19:29:56 2025 -0400
+
+    cookie debugign is back F crumbl bro
+
+[33mcommit cc2d7064031595e449c15365d96041ca05304a25[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Fri Apr 4 15:44:17 2025 -0400
+
+    no cookie debugging :(
+
+[33mcommit 64c3541204b3fd65329e23c11318eb83ca357e5c[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Fri Apr 4 13:32:30 2025 -0400
+
+    meep
+
+[33mcommit 83aab455d0ef10daafb64c02f2f1e0c5d7e902c2[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Fri Apr 4 13:31:04 2025 -0400
+
+    meep
+
+[33mcommit bc44f6eed59951884ff8e81ae4f3b6e04807aabd[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Fri Apr 4 11:58:29 2025 -0400
+
+    Schedule update
+
+[33mcommit b1eb0d3ee5de2ee220edad048b69649f3c0e1b64[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Apr 1 00:57:11 2025 -0400
+
+    schedule update, navbar updates
+
+[33mcommit 8f4b8a0a5e90400a598f04435069a47361861bd2[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Apr 1 00:37:02 2025 -0400
+
+    Interview Cake Johnson
+
+[33mcommit 7899c056a9230f08b94cabb702c804ca330e2cad[m
+Merge: d9a820c9 073096ed
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 31 12:38:32 2025 -0400
+
+    Merge branch 'master' of https://github.com/alexbluo/hackthenest-v2
+
+[33mcommit d9a820c95969c845a844bbadad040c3ffa044040[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 31 12:37:31 2025 -0400
+
+    email
+
+[33mcommit 073096ed68e6d2a889e5f9d9b05a25e27fc90c4c[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sun Mar 30 23:29:48 2025 -0400
+
+    schedule changes
+
+[33mcommit 808a8d7df2bfe25fdd8a5bb36997f30780c62b14[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sun Mar 30 23:19:25 2025 -0400
+
+    updated sponsorship tiers
+
+[33mcommit df17f228f6f58fbffb89128434b0aaa8e3815289[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sun Mar 30 23:14:24 2025 -0400
+
+    emails
+
+[33mcommit 25d4bfaa5bc6a3b24d2ea9a98f57f4433ddef5ae[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 24 21:41:52 2025 -0400
+
+    RSVP Form
+
+[33mcommit 471c57b73d4fbe27846f9adb8c2eb5037776fe58[m
+Merge: d94cac50 adaf05c6
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 24 13:32:21 2025 -0400
+
+    meep
+    
+    Merge branch 'master' of https://github.com/alexbluo/hackthenest-v2
+
+[33mcommit d94cac5015aaff89f937be136ad869dcd81d5010[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 24 13:32:17 2025 -0400
+
+    email
+
+[33mcommit adaf05c6ded3ec0a707ef553cb8dff5149f346a7[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Mar 18 00:01:27 2025 -0400
+
+    wtf
+
+[33mcommit 71e742e64ae553a9f73adca40bd26ea28b690b81[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Mar 18 00:00:27 2025 -0400
+
+    foo
+
+[33mcommit 6595c49c4656c9d5550f1b84f5d357fc0bc237c4[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 17 22:19:54 2025 -0400
+
+    Submit API
+
+[33mcommit 1c27dd6fb70363cc2e2346b89d82589c60565884[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Mon Mar 17 19:27:33 2025 -0400
+
+    Idk whats going on bruh
+
+[33mcommit 03ed730f3f1a4be53df768d62c6338b0ba60579d[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Wed Mar 12 00:23:28 2025 -0400
+
+    metadta
+
+[33mcommit dcc235010d21a91caa785646019ca7fbb4cb6025[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Wed Mar 12 00:13:39 2025 -0400
+
+    modified sections
+
+[33mcommit 834b276677e15fd05d4a71aab636884ea041e632[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Tue Mar 11 13:03:51 2025 -0400
+
+    Postmark
+
+[33mcommit 694e7bb86add0599b7a08a78d99dde667f487e23[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Mar 11 00:15:11 2025 -0400
+
+    Some changes but DO NOT PUSH TO VERCEL YEY
+
+[33mcommit 71fdfb17ed7ce7ddbaf4ce059ccd054520452299[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Fri Mar 7 23:13:07 2025 -0500
+
+    sponors + instagram updated
+
+[33mcommit 4bbfa4cbffa32ffc626cd5e7da6bedb4480c3456[m
+Merge: 6485a7e6 84fb8d8d
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Mar 2 21:38:36 2025 -0500
+
+    Merge branch 'master' of https://github.com/alexbluo/hackthenest-v2
+
+[33mcommit 6485a7e6d3a351bf81a5cfe6f5538061c22ef1e6[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Mar 2 21:38:21 2025 -0500
+
+    Updat FAQ
+
+[33mcommit 84fb8d8d8b50aad69d3a283bad036549182df89d[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Feb 22 14:11:46 2025 -0500
+
+    fixed hackerapp years
+
+[33mcommit b40a1a027973e600a75ce3d7f22c793bfd14d9da[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Wed Feb 19 21:22:49 2025 -0500
+
+    updated sponsorships
+
+[33mcommit d7865003981bfefce8fa128244cc5359fac7aa20[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Wed Feb 19 21:09:55 2025 -0500
+
+    new prospectus
+
+[33mcommit a75134dd24271e2ec9c03c83422b68293fb413b4[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Fri Feb 14 17:47:31 2025 -0500
+
+    New date
+
+[33mcommit 5cdf7371560f380ce15aa70c6aaeed9ef7d90087[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Fri Feb 14 17:04:52 2025 -0500
+
+    date cfhange
+
+[33mcommit 8d1cf7e63f0388efd1384c42b01f042442a68249[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Wed Feb 12 00:39:56 2025 -0500
+
+    Open Volunteer, Update RSVP Later (inactive right now)
+
+[33mcommit cc83f956021ea720c46d76f8efbf2c67a9d81a0e[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Feb 11 20:06:04 2025 -0500
+
+    weiped datbase
+
+[33mcommit 6003f220a51c83dfcd15cb378dd915c408f71cd5[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Tue Feb 11 19:09:06 2025 -0500
+
+    Login Button Fix
+
+[33mcommit e1c5b546c0dc8733d5c564cafdbb2264145068b9[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Mon Feb 10 20:39:40 2025 -0500
+
+    Fixed location
+
+[33mcommit ab1124a62c19966c8630efc3f2aaa1f7ae25b0d5[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Feb 8 00:20:06 2025 -0500
+
+    Fonts fixed
+
+[33mcommit ff3d35347c0cceaea15120202eef156f3ce576f0[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Feb 8 00:17:47 2025 -0500
+
+    Updates
+
+[33mcommit 826762659ab9ea08659fa0cdb47dc71193919d9a[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Tue Feb 4 22:43:36 2025 -0500
+
+    updated sponsor section
+
+[33mcommit 9f312dfdf4e6f83a4a7db25caf50b7f6414be201[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Dec 15 18:21:15 2024 -0500
+
+    FAQ, Date, New Prosepctus
+
+[33mcommit b4ff31cad184f9df5332581af3e1296fd59bfb91[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Dec 15 18:14:27 2024 -0500
+
+    fixed mobile on recap page
+
+[33mcommit 464f9b0ced4e110f1821201c292f05f7e5d29ce8[m
+Merge: 7c833943 fa8f3c39
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Dec 15 18:03:17 2024 -0500
+
+    Merge branch 'master' of https://github.com/alexbluo/hackthenest-v2
+
+[33mcommit fa8f3c392e8dd1d60b9b2c6d69d99f69c4236b85[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Wed Nov 27 00:55:42 2024 -0500
+
+    type meep
+
+[33mcommit 7c83394339c73946209062ed26d16945afd7d595[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Nov 17 21:58:23 2024 -0500
+
+    new pngs
+
+[33mcommit 0447edd6d9748feef76c3a3f4943fa3463359e0d[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Nov 17 20:38:33 2024 -0500
+
+    jpg -> png
+
+[33mcommit 94bad3f7d2207d537f13686e91b9ece847eb0c38[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Nov 17 20:22:23 2024 -0500
+
+    use client thing wtf
+
+[33mcommit ad0137c60e3f7336de2036fee1b72b8c0e7e49f7[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Nov 17 20:18:26 2024 -0500
+
+    temp font fix
+
+[33mcommit c85079981157b5af8ce8dcefc9713078fae709de[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Sun Nov 17 20:07:58 2024 -0500
+
+    recap image fix
+
+[33mcommit ef26f6749b17ac9f362b134cf0008bef670b66cb[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Mon Nov 11 21:11:50 2024 -0500
+
+    ok responsive actually done
+
+[33mcommit 7eff6e0362b43d4e51137de1b46944445cd4d8aa[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Mon Nov 11 18:48:35 2024 -0500
+
+    responsive recap
+
+[33mcommit ee320ff5d02dc6cb87313a23d0b2f161a5361292[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Mon Nov 11 18:42:27 2024 -0500
+
+    navitems
+
+[33mcommit 5149bb0bfe9f9d17df38fcdf3db0b4ce7b53547e[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Nov 9 21:55:32 2024 -0500
+
+    ok
+
+[33mcommit 5c56a21f3f9e2a138d2378133bb8e8d9f0383eea[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Nov 9 21:54:07 2024 -0500
+
+    recap page done bvasically
+
+[33mcommit 2000a8642bfc284acf4f98563bd087275a77f8be[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Nov 9 17:08:20 2024 -0500
+
+    recap work
+
+[33mcommit 124516ea6a9b5ea890d9b6f96fc735c97e97577c[m
+Author: Thomas Li <thomasli@macmini.myfiosgateway.com>
+Date:   Sat Nov 9 17:08:01 2024 -0500
+
+    recap work
+
+[33mcommit aa2263822752a5315848964b2279373013935950[m
+Author: Thomas Li <thomasli@thomass-mini.myfiosgateway.com>
+Date:   Wed Oct 16 19:09:14 2024 -0400
+
+    images
+
+[33mcommit 691b156f9e84fb1ca769a50ad3d3304fd34488ca[m
+Author: Thomas Li <thomasli@thomass-mini.myfiosgateway.com>
+Date:   Wed Oct 16 19:08:56 2024 -0400
+
+    recap page
+
+[33mcommit db61f62db3373ade7984e82b152192747671ec7b[m
+Author: tkl0000 <thomasli2025@gmail.com>
+Date:   Tue Oct 15 23:50:43 2024 -0400
+
+    postmark fixes
+
+[33mcommit 92d1a491309214e3804f65d31c8d1961159dd47d[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Dec 13 15:13:40 2023 -0500
+
+    edit about and front
+
+[33mcommit e15caefe61b63509c370f04726228af4fc64abb6[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Dec 8 23:42:21 2023 -0500
+
+    schedule and etc changes
+
+[33mcommit e7f391b0f59a08df1c9cd8a8207e16462a0527a5[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Dec 3 21:49:41 2023 -0500
+
+    fix typos
+
+[33mcommit 5a2158048f1ec8774ffc240c65f80e704fe9c8d1[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Nov 29 00:22:57 2023 -0500
+
+    edit schedule and date format
+
+[33mcommit 946fe669fc6c70885dc8f47265f783822c19d168[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Nov 24 21:00:17 2023 -0500
+
+    small changes or something
+
+[33mcommit ce8bef2b141e33e7cf34f77aa30a5c5704f05168[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Nov 18 18:50:56 2023 -0500
+
+    small edits
+
+[33mcommit e5a27cc0c367bfacb654ed20427d171794c86b52[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Nov 18 18:05:55 2023 -0500
+
+    fix venue gmap directions link
+
+[33mcommit 6a385bca74c9d4f2297b6ac5e1661313521f2612[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Nov 18 17:59:50 2023 -0500
+
+    edit schedule, sponsors, faq content
+
+[33mcommit f5beaa409dabe4a973fa900452e38a811b731864[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Nov 11 18:44:40 2023 -0500
+
+    update date and location
+
+[33mcommit e3b1f7bef0aea43fb5a3e02b5943a0e2153e093b[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Oct 18 13:09:55 2023 -0400
+
+    fix typo and temp remove team page
+
+[33mcommit a22d1ced27f6f01edf63adf72fcc836e2c4192b9[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Oct 1 15:11:25 2023 -0400
+
+    delete schedule animation debugging code, fix initial iteration
+
+[33mcommit 0fa2f0802ae7c020cbe9769a396d147a43abdb1b[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Oct 1 15:09:02 2023 -0400
+
+    debug evil 15 hour-eating mysterious schedule cycle animation bug with one line change
+
+[33mcommit 1b19c993d627f52cb592b249710b17c36afcc4e6[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Mon Sep 25 19:46:51 2023 -0400
+
+    update for postponement
+
+[33mcommit bd4ec6f81b9727591a6c50b24c7eb100a0aa1810[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Sep 17 22:43:59 2023 -0400
+
+    edit stuff
+
+[33mcommit eea02aa5b662be6e710e5e16586078bf85fd9f6a[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Mon Sep 11 20:54:58 2023 -0400
+
+    move emails and fix vercel ignoring emails route
+
+[33mcommit b2cf2667bf3b0322d4e165289ec0e65fa2a112c6[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Sep 9 21:02:38 2023 -0400
+
+    add two weeks email
+
+[33mcommit 16013eb7cb43f3de97b87515db384ed744d87c90[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Sep 9 14:54:51 2023 -0400
+
+    edit email and move admin routes
+
+[33mcommit c39b6f9665fe2cf80d45bbd5c17cd9f32937abd9[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Sep 7 21:50:30 2023 -0400
+
+    add cup stacking and rsvp
+
+[33mcommit 6e16cef42cf6984300e9345f3ff9c97683edea90[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Sep 7 20:14:09 2023 -0400
+
+    update registration deadline, add sponsor
+
+[33mcommit 4f6ff0d0f07087b9c52595b7b8ff9570451fd0e4[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Sep 6 22:43:51 2023 -0400
+
+    add xtenav, edit schedule, fix scroll shadow overflow
+
+[33mcommit 1c1553a263594c795d44b36a624631df4065ca61[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Sep 6 13:03:06 2023 -0400
+
+    fix dynamic user routes
+
+[33mcommit e02d6a4c83ce0daac4235ff4a4a5de6c393e9035[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Sep 5 00:07:22 2023 -0400
+
+    add email script
+
+[33mcommit 601b4a35e254fefd31c0a10059f7a7b3579b0a84[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Mon Sep 4 19:55:06 2023 -0400
+
+    add email api routes
+
+[33mcommit cdd77bdfea33a4c0b870621e3170cffb2491e1c0[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Sep 3 14:24:43 2023 -0400
+
+    add birdie
+
+[33mcommit 823d722166ad16fff4f1a30a050cccda5cbe2c75[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Sep 3 14:11:30 2023 -0400
+
+    edit faq
+
+[33mcommit 8fc324743b5e1db37b0088d18c59e236e2ab9763[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Sep 1 21:04:33 2023 -0400
+
+    add scroll indicator fade on scroll
+
+[33mcommit 3e88ee288fb82125729c372072e7529165c21502[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Aug 31 21:05:19 2023 -0400
+
+    add sponsor, add registration close date, draft schedule and scroll indicator
+
+[33mcommit 55054b1e43db19d22bc0ab889e0ab4ff34172128[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Aug 29 22:11:18 2023 -0400
+
+    edit faq and fix opengraph apos typo
+
+[33mcommit f0c0486ca1168501fca0c357c993aa8de1aca73c[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Aug 27 22:47:21 2023 -0400
+
+    add schedule scroll tracking, edit faq
+
+[33mcommit 0ddb665388b8699125842fe649ea5b81e98252c3[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Aug 13 18:27:34 2023 -0400
+
+    change admin api middleware to redirect to admin login
+
+[33mcommit ef2a37db566fe05bd02e443f21116b6e7b40fd0d[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Aug 13 18:25:38 2023 -0400
+
+    reenable admin login, move email scripts to admin api route
+
+[33mcommit 3e4ec0a8911399873dab1a6ef40f2cd7d8413ab4[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Aug 10 18:49:51 2023 -0400
+
+    add sponsors
+
+[33mcommit 7f2e702a34acc4050eb34690c728dc595dd440d7[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Aug 6 18:37:32 2023 -0400
+
+    fix volunteer app submission backend
+
+[33mcommit 350f60dff0d732cac37870e8cdb646a2ace2d5bc[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Aug 6 18:34:36 2023 -0400
+
+    fix application input/dropdown register/control types
+
+[33mcommit c28e4a015f72b562567bf66670c51836eb5e7599[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Aug 6 18:04:28 2023 -0400
+
+    add volunteer app, edit bus faq
+
+[33mcommit b1399b94834e98ab8d341df871ddf2b43eb846e1[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Mon Jul 10 14:06:05 2023 -0400
+
+    update faq
+
+[33mcommit d787a182b01507ce78f39de154a2d9c3839a4f3c[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Jul 9 21:39:50 2023 -0400
+
+    fix > 4 diff in schedule day lengths
+
+[33mcommit fc59573f4ba4feebf0b7c5be1dc73e944b501434[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Jul 9 20:31:42 2023 -0400
+
+    move block opacity transition from transitionend to normal
+
+[33mcommit 94e549c6ec09e80e750cda4431a9658b3c5c5fbd[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Jul 9 20:22:30 2023 -0400
+
+    lazy load schedule block with loading empty space placeholder to keep render fully client side and avoid motion hydration mismatch on width
+
+[33mcommit db797332dc17a9b74d0412280d9f7a6ca9bc17fd[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Jul 8 15:12:45 2023 -0400
+
+    remove dashboard status and replace with coming soon in parenthesis
+
+[33mcommit 87092226a2f36235d9c2fd34a243f67400ad6ac8[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Jul 8 15:08:52 2023 -0400
+
+    add prhi
+
+[33mcommit f454fb1091987f0c3873efb0b50c8d968d198671[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jul 5 23:09:20 2023 -0400
+
+    fix mobile glissando by making usewindowwidth fully client
+
+[33mcommit 424c7fecb7e7742a8c524e3678560befe1d85f89[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jul 5 22:40:26 2023 -0400
+
+    ellipses on long schedule block title
+
+[33mcommit f276c2d1dd661b1ac52e566fc1e7f35f34b55bee[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jul 5 22:11:25 2023 -0400
+
+    add location to schedule, replace order prop with odd child class
+
+[33mcommit 3f1223e183b3e7acdd7cfe571ae2fcf806909efc[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Jul 4 19:15:17 2023 -0400
+
+    adjust mobiel block width
+
+[33mcommit b52cfb718d17e696063764924a090d726307fd53[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Jul 4 18:52:43 2023 -0400
+
+    fit mobile schedule blocks
+
+[33mcommit 35b72fc72eea098467b6df89f31337a1661edfe8[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Jul 4 16:47:44 2023 -0400
+
+    shorten schedule blocks
+
+[33mcommit f188c6f57bb9db35cacd71fcd90346b86f0fff26[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Jul 4 16:30:57 2023 -0400
+
+    increase about text vert margin, fix hidden block actions
+
+[33mcommit 19830840a5339d3781c6c9a4fd3a1ae45423e600[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Jul 4 15:51:21 2023 -0400
+
+    fix schedule excess blocks
+
+[33mcommit f47824b2f02d82c2b5c0623b63d76473c1f651f4[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Mon Jul 3 17:24:21 2023 -0400
+
+    change dashboard animation to only incomplete
+
+[33mcommit 9b4974810c9d01e8fab86d5d702d59dd5557a657[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Jul 2 19:32:15 2023 -0400
+
+    add dashboard button status popover, standardize button style
+
+[33mcommit 14368ee5e2b56ede4cca1ae240d4ec937d058bde[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Jul 2 17:20:22 2023 -0400
+
+    stack center mobile footer
+
+[33mcommit d21526196c346e6507d39e461508abfc72a55e6d[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Jul 1 23:27:04 2023 -0400
+
+    change confirmation to manual close
+
+[33mcommit 07583c8153c3c2c5cb8e8dcc9e84f46fe6d99da7[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 23:36:31 2023 -0400
+
+    add circular text in about and adjust section h2 bg rounding
+
+[33mcommit 2b369242379a74117f00dc86aa35f4b1bef5982a[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 22:38:45 2023 -0400
+
+    fix experience error
+
+[33mcommit 850a0d9ef01cff77085ee42cf13fcfa60ea08d2c[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 21:17:34 2023 -0400
+
+    change admin users api route from static to dynamic
+
+[33mcommit 1d39036f951b31f79e947a36817194967e2d5cc9[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 17:52:44 2023 -0400
+
+    fix modal border dimensions with style attribute height instead of aspect ratio
+
+[33mcommit 5b7c683f68a48435d86615d1e812c331263f746c[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 17:50:19 2023 -0400
+
+    increase modal mobile height
+
+[33mcommit 2cb0607a0280891553f373bc6e309f2dab9d8595[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 17:40:51 2023 -0400
+
+    increase modal width multiplier breakpoint
+
+[33mcommit f43dee64bf2c0b2b44552ea88b2b78ec0a00452a[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Fri Jun 30 17:38:25 2023 -0400
+
+    fix modal scroll overflow
+
+[33mcommit 2e515967c6e7d860cdfce3afb5e5e7d79ca162db[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Jun 29 21:10:11 2023 -0400
+
+    refactor modal content children, change schedule and modal color to blue-mid, add lockscroll util, fix resize into scroll unlock in mobile
+
+[33mcommit bee268603b7e79a29287e5fc0d2fe70fdbc49f88[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Jun 29 19:46:27 2023 -0400
+
+    fix stat grid layout on modal open
+
+[33mcommit e062c8d75ebcce5e56656c4375453ecaa51e6bf6[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Jun 29 19:43:52 2023 -0400
+
+    fix stat modal open bug
+
+[33mcommit 221698219f9da1e51b3a9b1884d29a458a2e84d9[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Jun 29 14:20:14 2023 -0400
+
+    add stat modal and fix todos, descrease heading tracking space
+
+[33mcommit 6eb6e8652f61b0ad690f1eece4002d9fee58868d[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Jun 29 00:15:16 2023 -0400
+
+    prod version
+
+[33mcommit 9aec10040d2e0991f93d9e5b604bbf135849e74c[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Thu Jun 29 00:12:41 2023 -0400
+
+    fix hacker app, add user delete route
+
+[33mcommit f501b8028c64b49fc9e4e3c37a1551a6d888051a[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jun 28 22:17:52 2023 -0400
+
+    fix confirm prop type
+
+[33mcommit 5dd3b2b7c3b3e2822d0fae33b64257c0b87a08aa[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jun 28 20:54:12 2023 -0400
+
+    add confirmation
+
+[33mcommit 31075a3d0cb1df5426625b8d7b234fc1522be1c7[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jun 28 20:20:57 2023 -0400
+
+    fix prod api route admin caching
+
+[33mcommit 37de1b5418ba288b683f0f12ffc86cf58206a536[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Wed Jun 28 00:00:00 2023 -0400
+
+    upgrade next to try fixing inconsistent digest on app submission, add temp schedule length offset wip
+
+[33mcommit 85f118ae984779ebed3b45771f4f7fa8ffd1be2e[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Tue Jun 27 21:48:42 2023 -0400
+
+    add website structured data for seo
+
+[33mcommit f9fb02f831a6b3c33c3190ac5e48cee6f39eb9f7[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sun Jun 25 00:34:59 2023 -0400
+
+    edit about and description, add sitemap, metadata, and aria labels
+
+[33mcommit e460ca3f22362884f89ad7afc1f0cc5ac2188d44[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Jun 24 23:17:03 2023 -0400
+
+    fix window resizing mobile menu scroll lock
+
+[33mcommit 30fe6eda7c09c3db3e92efa42bc77ae6b214c7e0[m
+Author: Alex Luo <alexluo92823@gmail.com>
+Date:   Sat Jun 24 23:09:16 2023 -0400
+
+    fbla version
+
+[33mcommit 6291e403749b3c707b93199c3326189256ff91db[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Sat Jun 24 22:45:21 2023 -0400
+
+    disable completed hacker app lock, fix school caps validation, fix zod validation save error
+
+[33mcommit 0acd8b06d90aaaeae7b9500ebe0aaeb2ce9b5d4f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jun 23 22:57:07 2023 -0400
+
+    fix new app creation, remove wait client
+
+[33mcommit 1cf0404f456c3d51002719a5ba1350f7b79f5414[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jun 23 22:44:34 2023 -0400
+
+    add hacker app completed check
+
+[33mcommit 6fc2e9c30094f846973f41436a7fdeabaa52d7d5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jun 23 19:58:06 2023 -0400
+
+    fix hacker app save and submit for prod, move login redirects to middleware
+
+[33mcommit 44fba863fc1584921a1ba23190c32f28cb8bd6df[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jun 21 23:58:03 2023 -0400
+
+    fix middleware and redirects
+
+[33mcommit 148cf5c82da1fafd319246e40d584ff7a89e6e32[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jun 21 20:14:10 2023 -0400
+
+    fix api route handler exports and add admin and api redirects in middleware
+
+[33mcommit 320db4f8621bb8c5a90a8806ebe3745f82103a94[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jun 21 20:03:02 2023 -0400
+
+    change check box to focus visible
+
+[33mcommit 3f553335cc771aa253bea33e1598dfb9c1e6a4f1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jun 21 20:00:33 2023 -0400
+
+    change zod inference schema type to prisma native type, fix hacker app
+
+[33mcommit 296017afb3632c5bcc2d51f1ab338fa19379f2f1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jun 21 16:57:21 2023 -0400
+
+    change nextauth session type, add middleware for auth protection, change res to nextres
+
+[33mcommit 210e2b297610d923f308994af079bca6abbd4284[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jun 19 22:35:22 2023 -0400
+
+    refactor jumbo animation into useHackerText and move login button to component
+
+[33mcommit 06bb6075326f0b0075a7077ebf5c86c76bee318e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jun 19 16:47:33 2023 -0400
+
+    uncapitalize
+
+[33mcommit 1f6b2cdc3ba3a28b4b7b1049377193217151ce0c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jun 19 00:21:04 2023 -0400
+
+    replace gradient util and css @property animation
+
+[33mcommit e09ace8e4da3f7e6ed14c90381a66ef0aee448b5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Jun 18 16:34:48 2023 -0400
+
+    make gradient client and server compatible (warned with client)
+
+[33mcommit 46c8da4b1fce72ec5761593963f8c4372d11ebd6[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jun 16 12:37:31 2023 -0400
+
+    fix mobile nav scroll lock
+
+[33mcommit 2c9347b27b1c6c84b31f08a827e0b726a608e4d4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jun 15 21:54:21 2023 -0400
+
+    fix fallback next font with next version upgrade
+
+[33mcommit 9cf814e7bdfea81a4bc16639983fa2be2661f7e3[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jun 12 17:18:19 2023 -0400
+
+    update package versions
+
+[33mcommit 5a2ec1f7475a7232092029e22b1ca427c5ada589[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Jun 11 22:48:57 2023 -0400
+
+    start migration to app router
+
+[33mcommit 8a4d392adb060f35398e9966b43a29d81aaed6a0[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jun 10 21:45:22 2023 -0400
+
+    finish email layout
+
+[33mcommit c7f52e020f22b53b38a41fd4f9b3f9945197b0ec[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jun 10 21:12:59 2023 -0400
+
+    edit emails
+
+[33mcommit b2833c53105388bec7f15098d562fb85613513a6[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jun 6 09:07:56 2023 -0400
+
+    fix front date wrap on mobile
+
+[33mcommit 46f148a807f5835aa771ed9c9089abe706cdda01[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jun 1 12:04:28 2023 -0400
+
+    add banner and finish email layout
+
+[33mcommit 23d112164c2c9cc2e8d66e31e99fff26c4187882[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jun 1 09:21:32 2023 -0400
+
+    edit footer
+
+[33mcommit 81788d9eec688bbadfecfb0dfd42916316320899[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jun 1 09:15:52 2023 -0400
+
+    add application inpput border animation
+
+[33mcommit af57f0f49e1be7f96379b76f25683818cff76c95[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 31 08:42:28 2023 -0400
+
+    refactor faq and jumbo
+
+[33mcommit bc52d73516360260be4001375926e7f8b5b16b4c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon May 29 13:01:24 2023 -0400
+
+    update font to ibm
+
+[33mcommit 7897ed0c14b9c73d2dccb8916fa9d94260890f47[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 24 12:25:12 2023 -0400
+
+    capitalize headers
+
+[33mcommit 7961c7ea21db83cfeafb36b23ac470eb6f908b03[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 24 12:16:57 2023 -0400
+
+    load new fonts and edit dashboard status
+
+[33mcommit 69076b7ef043d6b845bed7e09b86dd21a75b1031[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 17 15:15:38 2023 -0400
+
+    fix second part of schedule stagger
+
+[33mcommit 77ed4ae6bb2ea89469f71294141b527bfde218ee[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 17 13:36:29 2023 -0400
+
+    add half working schedule
+
+[33mcommit 1f700ea366896029ef97afca79f8b5abdb212c7a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue May 16 15:20:25 2023 -0400
+
+    add hover expire timeout
+
+[33mcommit de0ae0f51e192a00a30c7ee03054d538238c9317[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue May 16 14:08:02 2023 -0400
+
+    refactor schedule animation
+
+[33mcommit 9cbab8ddfc1eee5557990a9d0b0e3fbd39aa4df8[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 12 14:34:39 2023 -0400
+
+    fix background image bluriness
+
+[33mcommit 3fe9d9ce08d14b158e9ce4caac943d4a15f0a03f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 12 12:36:44 2023 -0400
+
+    remove github in footer
+
+[33mcommit 97af250c8bed12f7cb9da21bc2ffd31fd0f2f74d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 12 08:58:02 2023 -0400
+
+    change faq button to gold only on open
+
+[33mcommit 69563d025244f34fd966672235d00e3b26adc4da[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 12 08:50:41 2023 -0400
+
+    fix mobile menu links
+
+[33mcommit dc0853426251b9d19d40c30822d02e8088b7818c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu May 11 20:27:58 2023 -0400
+
+    fix random bg overflow
+
+[33mcommit 0e6c0fc0aa69a559c45847b32af23e38e699575f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 10 18:49:40 2023 -0400
+
+    add basic email layout
+
+[33mcommit a74637eab5f98840cf83a86e134182b0a27340a7[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 10 11:57:14 2023 -0400
+
+    set up email env
+
+[33mcommit 0998d66d9412a72c38ebd4edad285153d2be48ef[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 10 09:15:53 2023 -0400
+
+    revert background image compression
+
+[33mcommit c77c83dd5286266d0981d2dd132d16c0fd232ec7[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 10 09:06:26 2023 -0400
+
+    compress images
+
+[33mcommit 48971f49d8ef04bfbbb98871e4d22f69aeb855c3[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 10 08:53:43 2023 -0400
+
+    add separate gradient text
+
+[33mcommit 1e9257a1c9d709fec8d3f41d88637fac96a49a40[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 5 16:33:54 2023 -0400
+
+    typography changes
+
+[33mcommit 380e2d741cac4edae8ca42cf2dbf697a94bf8180[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 5 08:28:52 2023 -0400
+
+    fix commit
+
+[33mcommit e93f15b46e9607499c7bb63a3a29503878e0cbce[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri May 5 08:28:18 2023 -0400
+
+    test commit -am
+
+[33mcommit 89f795a9793a62e950f413e60b38d39a7d5eb6f7[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu May 4 16:02:43 2023 -0400
+
+    add thecoderschool and c hit, outline emails directory
+
+[33mcommit 7fb3d7295bf3c0b30d0164eb021a0a721faae7ed[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu May 4 08:42:34 2023 -0400
+
+    fix env types
+
+[33mcommit 1fe1ed01cdd6fd3d4b49bd036c6f05686d7a2a87[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 3 15:44:08 2023 -0400
+
+    fix error focus on app submit, add email api test
+
+[33mcommit c34382c6f9dc975451f1c3983b476b8b9475dd40[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed May 3 08:44:04 2023 -0400
+
+    add debouncing, error and dirty check
+
+[33mcommit 708404d0a3c5e5b181c7ea279ee49b124d5e2495[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue May 2 12:38:02 2023 -0400
+
+    remove multi select and change diet to single
+
+[33mcommit 8e98b45df6760ed4ac5503833112d085e8738678[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Apr 28 11:40:59 2023 -0400
+
+    move saving from react query to normal useeffect axios, add clearinterval, add experience to prisma
+
+[33mcommit 80624cd877a9ef9f1c5eed891ef5a7bbbbecfd24[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Apr 27 12:02:41 2023 -0400
+
+    change id to email and fix hacker app updating
+
+[33mcommit 3f06ed6de08d87a89f14fd362892acaa572dfdde[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 26 18:07:49 2023 -0400
+
+    fix dashboard qr
+
+[33mcommit f4c9eb9216ec4b8c670a212ac033ee948da1aaa8[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 26 17:59:51 2023 -0400
+
+    add user id to qr code
+
+[33mcommit 0bce74873124c15146230794949864fef96008be[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 26 16:19:48 2023 -0400
+
+    fix jumbo same letter randomization
+
+[33mcommit 5a09ba70a14c3be6b98ff7ae7a892c6aeb16092d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 26 15:05:42 2023 -0400
+
+    change faq and header with venue
+
+[33mcommit 2465d8aa7922a379866de00cef62f3c45c8e2eb1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 26 11:39:31 2023 -0400
+
+    set up application save on frontend, fix multi select height, add application background color
+
+[33mcommit abc08a5933db0311d0338233ef2c91ea9114e50a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 25 15:17:01 2023 -0400
+
+    protect admin dashboard
+
+[33mcommit a343fb0dc85926e0be40c41198b6478e7e6e26ee[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 25 14:50:26 2023 -0400
+
+    create hacker app query and move page to application folder
+
+[33mcommit f1fed6d48427d2a38b4cbfd9c26aafc1c32be119[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Apr 24 14:45:27 2023 -0400
+
+    add app routes
+
+[33mcommit acd14cf123dfdfc7e9f77636b241c3bb386b5b3e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Apr 23 17:15:32 2023 -0400
+
+    add http method check in handlers and admin password incorrect message
+
+[33mcommit ed6101a9fa803b56f1a25e5db5102e92a665a413[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Apr 23 17:04:45 2023 -0400
+
+    remove user credentials login and move to admin only
+
+[33mcommit fd277a727d599587f5442860f6ba6d2b55226d9a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Apr 22 18:15:38 2023 -0400
+
+    seo todo and sponsor bg width
+
+[33mcommit 316905deda0b5ea1a1734349ae5f66b9b9858a34[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Apr 20 12:09:13 2023 -0400
+
+    fix dashboard getserversideprops
+
+[33mcommit 7b66d81e26a77b9550365d16b5de35b3d47898b0[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Apr 20 08:57:03 2023 -0400
+
+    change app checkbox line height and capitalization
+
+[33mcommit aaa971ef170f5421c5f288dfe6f56a19b3452b46[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 19 14:43:41 2023 -0400
+
+    lots of lofty login lingo
+
+[33mcommit 72b73e0d51c108eb63b81c125812564e4071ec44[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 18 09:36:19 2023 -0400
+
+    switch to not working react hook form and zod for login, add login states
+
+[33mcommit e272034e476fc83c7095adea545920289f65d86c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Apr 17 08:48:27 2023 -0400
+
+    create admin endpoints, add check and volunteer origin to schema, move prisma client to global
+
+[33mcommit 24d098359d463d1e9741593b9ae858fbe21a1665[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Apr 12 08:58:35 2023 -0400
+
+    fix dashboard qr dimensions and remove button borders
+
+[33mcommit 76571e4e4867bbd519a759b3ca590c8a72b3fad5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 11 11:14:53 2023 -0400
+
+    change faq into accordion and color change on open
+
+[33mcommit d17286adc80b576684eb3b9f714f3bcacd00545e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 4 23:31:56 2023 -0400
+
+    uncomment test
+
+[33mcommit b33247aa575c3b640de5b902ea7f1f19b3866d5a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 4 23:24:43 2023 -0400
+
+    comment for prod
+
+[33mcommit 10b2120f7642d22029e444b53c8ee41cc44b70e8[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 4 13:19:55 2023 -0400
+
+    edit text bg rounding
+
+[33mcommit 838a7e4917022d198714959a48a4528bd1688dd2[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Apr 4 12:52:18 2023 -0400
+
+    comment out for prod, add vercel.json deploy ignore
+
+[33mcommit 9b0036642046cbca1d192f234b7a7f830c621ff7[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Apr 2 15:39:01 2023 -0400
+
+    fix hydration error with waitclientload, speed up jumbo, rename section files, object-top cover background
+
+[33mcommit cabd04cb16cf9c9b09f996138850389527ad9f08[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Mar 31 14:47:57 2023 -0400
+
+    extract rotateicon into memo component, change jumbo from uselayouteffect to useeffect
+
+[33mcommit 90447b719a933f26b67f7942a293935bdea57ff9[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 28 22:34:11 2023 -0400
+
+    change modal width to window width
+
+[33mcommit 785ab2fb970e6e0d08e22c284a46ec321d9a1a7f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 28 21:48:45 2023 -0400
+
+    fix safari modal border rounding
+
+[33mcommit 2e54ef8bae52d6db05a9478fcbf50c996b2eb08b[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Mar 26 13:04:14 2023 -0400
+
+    lowercase headers
+
+[33mcommit 709a76e65e4f9dd67a3244484135b623c7f79f64[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Mar 26 12:02:53 2023 -0400
+
+    add useJumboAnimation:
+
+[33mcommit 07f163ef2eb3107f0104a0dd6ca1b7988cb08742[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Mar 25 20:58:50 2023 -0400
+
+    add dashboard login link to mobile nav and increase breakpoint
+
+[33mcommit 7cd46bbbf7fe47b2f86ee82fd3281b8f9001c8e1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Mar 25 17:36:47 2023 -0400
+
+    rename useschedulewidth and fix block hover brightness
+
+[33mcommit b68f5db7357c41845b3393aec03c9de261256cc6[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Mar 25 17:29:07 2023 -0400
+
+    fix merge:
+
+[33mcommit 64d73909451885eb82bb42aff88e50ebc0f9e94c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Mar 25 00:32:02 2023 -0400
+
+    fix modal border animation and add usemodalwidth
+
+[33mcommit 8a9fed3e85a89e24c30218bffe422d2919dc2fc3[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Mar 23 14:43:48 2023 -0400
+
+    add day cycling
+
+[33mcommit c017d53ada48006e4cb2695aa80bebde25ce567d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Mar 23 13:19:07 2023 -0400
+
+    fix stat
+
+[33mcommit 67daf8d5d915fe8fe087f38c0729e9fe9187f341[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Mar 22 11:03:11 2023 -0400
+
+    add modal
+
+[33mcommit e10df440e63c2acc79c6af9f51eb2c69b7693f2b[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 21 22:31:14 2023 -0400
+
+    add staggering
+
+[33mcommit a8ceeb10345c379a02855cb8dd441b46bc892975[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 21 21:42:08 2023 -0400
+
+    add animation gestures for schedule blocks
+
+[33mcommit dd8fb4c4bdd8d583f7b4f9e54dd5ff58d740345f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 21 20:57:11 2023 -0400
+
+    add schedule block animations without act
+
+[33mcommit 31be71c33d9f25928b824d9766751763a01700d0[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 21 16:50:29 2023 -0400
+
+    create basic schedule block
+
+[33mcommit a4b7d8c3150e9c94d0a54ee3becb0848681abd70[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 21 15:02:05 2023 -0400
+
+    change firefox safari gradient angles
+
+[33mcommit 7bd716c7a500721b8145db8be38791189ec8ca0c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Mar 20 21:46:11 2023 -0400
+
+    fix background .5px sliver on left
+
+[33mcommit 04b3786d72f2ae541bfcd67be73a40feb01833a8[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Mar 12 18:31:01 2023 -0400
+
+    add dashboard login to nav
+
+[33mcommit 4739dde50889efa1c764e153f2aa75301e33830a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Mar 8 08:53:43 2023 -0500
+
+    fix deployment api protection with vercel prisma build script
+
+[33mcommit 2688d2b18bd022b3441c3b82772350c9e74cb6c5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Mar 8 00:00:28 2023 -0500
+
+    add api route protection
+
+[33mcommit 91693edf54eb27b5f9ffd3d8e3e9996a6f51cedc[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 7 23:09:07 2023 -0500
+
+    actually fix prod req base
+
+[33mcommit 3f44cbec621d9bd141b228efa110bf579b788182[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 7 23:02:06 2023 -0500
+
+    fix prod getserversideprops absolute req url with base util
+
+[33mcommit 22cb955490e7686d20b52d5c62c18db67a64fd9f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Mar 7 21:48:38 2023 -0500
+
+    add user create and get endpoints, fix faq wrap alignment
+
+[33mcommit 313a6eeaae93de5f91b61ac91222a8c68bfcadff[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Mar 2 17:32:46 2023 -0500
+
+    add countries options, add multi for diet and change prisma diet model
+
+[33mcommit 4fd3392b064d4e52d3224f000ec0fca4e2fd3735[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Feb 28 18:51:16 2023 -0500
+
+    add prospectus link
+
+[33mcommit 030d417da0ff08d0e0f2d4fc1aa68d432b9ae548[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Feb 28 13:41:54 2023 -0500
+
+    change venue, success error shades, and side event to mini-event
+
+[33mcommit f1f621fd4a1dc46ef089c5bad1565c1b131420cc[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Feb 28 00:26:49 2023 -0500
+
+    move sections to components folder and edit dashboard placeholder
+
+[33mcommit 83678e265e66b254d57e695e34a0fcf1a54f0af1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 27 23:55:49 2023 -0500
+
+    finish validation and move to dashboardbutton
+
+[33mcommit a742585c94cb3ac32bce4082c3ab6a893e9f9bcc[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 27 21:45:18 2023 -0500
+
+    add shirt options and reorder
+
+[33mcommit 949890b52005e436f297ccadb201c5ab61f66a3c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 27 20:50:40 2023 -0500
+
+    change fonts and revert application columns
+
+[33mcommit 5137c5e48d8986b8955e0507992dc7d722de173e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 27 20:23:58 2023 -0500
+
+    edit dashboard
+
+[33mcommit 9784e46ea9ad4e5fab2dcb436752a75ffd4a82ab[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 27 09:08:34 2023 -0500
+
+    fix some headers
+
+[33mcommit 5d1571c7b651e3dea1f9cce8cd829280c3a6124d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Feb 25 21:20:29 2023 -0500
+
+    fix some headings
+
+[33mcommit 88ec946e9995596605357ce4b237c3c0964d31ef[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 23 22:50:27 2023 -0500
+
+    add image sizes
+
+[33mcommit c9989aecc453f878cbc091fb510ace6f967f9b0d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 23 22:02:00 2023 -0500
+
+    remove extra bottom padding on subheaders
+
+[33mcommit db3ff28ab8f0e4e704ff89567035f5fc098d5279[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 23 21:58:43 2023 -0500
+
+    change to bigger river, add ice color, remove sponsor stacking
+
+[33mcommit 91fa4e4445e6af7bbc9b99f942b3cff26da2ce31[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 23 21:50:08 2023 -0500
+
+    add dark backgrounds
+
+[33mcommit 5d5f30537e75c3db2f66f1d63a5fdcf0ffc46636[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 23 15:59:48 2023 -0500
+
+    fix dashboard auth protection:
+
+[33mcommit c41c1acff0761e61e22bd27c33bffb81d04b006d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 22 15:25:59 2023 -0500
+
+    fix application dropdown styles and login title wrap
+
+[33mcommit b5e5149d0f05ae17ab00a3bd6e3137b22730d7fa[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 22 14:08:21 2023 -0500
+
+    set up db schema and edit application'
+
+[33mcommit 11832909211bfff1dde4764fa02668989b322781[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 16 17:17:16 2023 -0500
+
+    add transparent faq background and fix nsp link
+
+[33mcommit ef9068df89dcd7276f8ae7eafa35ed4da864fdea[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 15 09:10:24 2023 -0500
+
+    remove flow animation
+
+[33mcommit b3c3e0ae42d56cca72d829124b5ff49288978eed[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 15 08:24:27 2023 -0500
+
+    add nsp and fix z values
+
+[33mcommit 77dfe3bd035a27f870a5eb858611e7af2e71bfc4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 15 08:19:58 2023 -0500
+
+    start flow animation:
+
+[33mcommit f839ca1ea3498a3aa0bed99b253e8488cb0eba4f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Feb 14 08:54:56 2023 -0500
+
+    fit background and fix faq/page initial height
+
+[33mcommit 6ca02525b75ed849931ac4466c8bed0712f2242a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 20:50:44 2023 -0500
+
+    add faq open close svg rotate and collapse samples
+
+[33mcommit a97b5beeb78ee003ca88e1a148822fb8fab89de6[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 20:29:33 2023 -0500
+
+    change faq easing
+
+[33mcommit 0d6b9f465776e553fc79bd81d72f12370b050f7a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 20:18:23 2023 -0500
+
+    fix footer and title on mobile
+
+[33mcommit 949602be8a9e778e541767655d6f3334fee9fcf1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 20:10:36 2023 -0500
+
+    add handler skeletons
+
+[33mcommit 7170c970ee26c4b10d8274a2259406586d703c73[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 20:03:36 2023 -0500
+
+    priority front image
+
+[33mcommit 8af5f3a085f97cd402d22b7c6644103bca607412[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 11:29:11 2023 -0500
+
+    create api routes outline and stack sponsors on mobile
+
+[33mcommit d1f01577ea584023cca7f42b14de16a4575face3[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 09:17:48 2023 -0500
+
+    make referral code only show when outreach is friendfamily
+
+[33mcommit 33d2fe06561174c95e91121bde3616f12d1f7714[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 09:05:17 2023 -0500
+
+    fix stat vertical center
+
+[33mcommit 76d1e66473d92ded3115f08e6298d1f30d1ac1b0[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 08:52:27 2023 -0500
+
+    remove default input styling on firefox
+
+[33mcommit 1a72921ea8f0d5bcc322d78dc18f8d4a6667051c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 13 08:47:06 2023 -0500
+
+    fix sponsor links
+
+[33mcommit f6be13ccf0f486709b5a8705d7d386aad6a2c17d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Feb 10 14:03:22 2023 -0500
+
+    stack stats on mobile
+
+[33mcommit 45621b39e7233ffa3888e3a4a500cfc004183cec[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Feb 10 09:10:03 2023 -0500
+
+    create non functional stacking contet for text gradients
+
+[33mcommit 2f21126c440e9e504ed72a5cfa4493ed10f990c0[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 8 20:05:38 2023 -0500
+
+    edit faq content
+
+[33mcommit 5fa08139645c09b37309c1e8737913bdbdc20dc1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 8 16:08:56 2023 -0500
+
+    fix social media flex on firefox and safari and delete from mobile menu
+
+[33mcommit be9384d72b62685446ce17289072b772058837e9[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 8 15:55:16 2023 -0500
+
+    add useGradient hook for different browsers
+
+[33mcommit c59c072901b3906368c215a1516b6bb5eb667132[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Feb 7 23:19:47 2023 -0500
+
+    edit about section, front appearance, and login
+
+[33mcommit 3d3208b3b2b259062a207bae8702dc8f74ffe7d4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Feb 7 08:38:36 2023 -0500
+
+    add wave animation
+
+[33mcommit 63c003ef0359fb6f8e33283618777e4d871e968c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Feb 6 23:20:23 2023 -0500
+
+    adjust text sizes, change registration to application, edit front headers, remove legacy checkin proto
+
+[33mcommit 9a07cc415b0f163aeab389574ce85bcb6e0fafd6[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Feb 4 23:55:01 2023 -0500
+
+    add gradient bg
+
+[33mcommit 97a392bad43006565602d22093f3b11043e486cd[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Feb 2 13:25:52 2023 -0500
+
+    add outreach and diet options:
+
+[33mcommit 70f6b4675fc013d0027ec3655f50195df30881cd[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Feb 1 22:24:08 2023 -0500
+
+    change how to where in registration:
+
+[33mcommit 00afab08a7652eb198faffd39fbf2fdd0298718c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 27 13:58:10 2023 -0500
+
+    fix dropdown spacing and border and input border
+
+[33mcommit bf949e6b6e8a6d49ba62160c624eca478115d30f[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 27 08:58:06 2023 -0500
+
+    fix form types
+
+[33mcommit 452f692e5af9d3bcb63871577b3d51cbfd2eb851[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 26 14:04:33 2023 -0500
+
+    fix registration submit and dropdown state update, extract select into new component
+
+[33mcommit 9015981b5dde3fb543e11d73297ef0b15d5f0823[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 26 08:25:36 2023 -0500
+
+    change application to registration:
+
+[33mcommit 91ea4a103c2426aff042a71eb0c0f0e322568f22[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jan 25 22:26:02 2023 -0500
+
+    add user model to schema
+
+[33mcommit e0d4bf1578cea5998c731273a4fa7d61e62d380a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jan 25 13:57:59 2023 -0500
+
+    replace fonts with haas
+
+[33mcommit 20627cba1113d8f5df9b92f72cd68c4d15c6540c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jan 25 08:37:50 2023 -0500
+
+    add sponsorship tiers
+
+[33mcommit 8e30e3445aaec264953478eaed4191ac04fb5131[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Sat Jan 21 11:47:31 2023 -0500
+
+    add readme
+
+[33mcommit 7d22f1123173bbe2cebdaa7bb11ba21457c24c6d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 23:40:57 2023 -0500
+
+    fix application responsiveness
+
+[33mcommit 24364f0c496bca0a62afcef76c87f26dbbe6a2d4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 23:10:23 2023 -0500
+
+    edit faq content
+
+[33mcommit e713f252293be76f8b6f39886f45e20978c2a98a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 22:57:29 2023 -0500
+
+    fix application dropdowns
+
+[33mcommit 2c3036c6c79b0dbd76289e7d875c384823c0b8d4[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Fri Jan 20 21:04:02 2023 -0500
+
+    change dropdowns
+
+[33mcommit f8ca8c2821928c8bfb6fa6ca32b688f17e7f5988[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 19:47:55 2023 -0500
+
+    add about section
+
+[33mcommit 588914ee9ca0b523f86faceb93b4f3dfca4b247a[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 20 19:28:06 2023 -0500
+
+    add logo to application and make dashboard look better
+
+[33mcommit ad7f6bdcc3fc4132b7eef0a0688d4ead541f8686[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 20 15:56:44 2023 -0500
+
+    move login button
+
+[33mcommit cde7b13db44cb71ffa5d7036c6348d119b9f5815[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 15:40:07 2023 -0500
+
+    fix rebase
+
+[33mcommit 73900c3db5e2d6745c3a751fa448c9b1b43c386f[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 20 15:31:21 2023 -0500
+
+    do stuff
+
+[33mcommit 3db4f66d01cb098965b72b85c9dd37371306aafa[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 20 15:18:50 2023 -0500
+
+    did stuff
+
+[33mcommit 81f4eae9cb62e2d2b39e0ea89502599bdfc2bba9[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Fri Jan 20 15:13:45 2023 -0500
+
+    fixed checkboxes
+
+[33mcommit 0e655d8cf71c0d3ff7ded52c3ffce48b8170d682[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 14:46:55 2023 -0500
+
+    fix background aspect ratio and change logo golors
+
+[33mcommit 896a242b4c3549d14ef93a5cb64cd5e280ac53c3[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 20 14:31:34 2023 -0500
+
+    make stuff look better
+
+[33mcommit 3440694a42547e9702d8369c4996fd2b10f7354e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 12:50:31 2023 -0500
+
+    fix login redirect and change background to black
+
+[33mcommit 0c7608e1d280866c49baa7a400109c262fd6c27b[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 20 09:14:32 2023 -0500
+
+    edit login and application
+
+[33mcommit 5fb0be941428d42d2ee3f48e6aa14b556a39f93f[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Jan 19 18:39:48 2023 -0500
+
+    add credentials sign in
+
+[33mcommit bd8c026258927200baa2ed49a8e244274eb31dcb[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Thu Jan 19 18:36:16 2023 -0500
+
+    made changes to application
+
+[33mcommit 2ff0998e90dc87310ab5b0fd62689cd435be344c[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Jan 19 16:43:58 2023 -0500
+
+    make mobile menu above front section loals
+
+[33mcommit 8d7cb1d54820e28a8953d75a07f7ec4be214a29f[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Jan 19 15:41:59 2023 -0500
+
+    make credentials onstate thing work
+
+[33mcommit 51088cac20777096388ea66f0b26cc78b536c2cf[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Thu Jan 19 15:09:30 2023 -0500
+
+    added checkbox
+
+[33mcommit 325625d4bb66a42aef50264597093749ab467e3a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 19 13:55:10 2023 -0500
+
+    fix tailwind content config bug
+
+[33mcommit 3f6e3855f0952c5f2de319a0a3bcc439e9a5a1a4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 19 10:00:35 2023 -0500
+
+    move section components to separate folder
+
+[33mcommit 1d900c2b800118836fc315898bf401c20e5311ae[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 19 09:56:10 2023 -0500
+
+    prettify admin checkin and login, fix application wording and unnecessary code
+
+[33mcommit 4553a01a41fd0f2d3c1ab13627e6126476fe5930[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 19 00:25:01 2023 -0500
+
+    add background
+
+[33mcommit e3410a2402264fe96dcc1b1c2b94e306ad115904[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Tue Jan 17 17:11:54 2023 -0500
+
+    add thing to credential thing
+
+[33mcommit 6859dd25f303502a6db2899f920898b58753669b[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 17 16:50:35 2023 -0500
+
+    fix provider sign in redirect
+
+[33mcommit bdf2bfb99c60b4901136915040bb6d777a45ff02[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 17 16:45:55 2023 -0500
+
+    add prisma models outline and change admin paths
+
+[33mcommit 68eeac4e61b29bb37ba27637b197c0e9cb96f962[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jan 16 21:15:19 2023 -0500
+
+    clean up application
+
+[33mcommit 4dc5bc5fc3be7cce1c3a9abd65c135be1830d7b4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jan 16 20:52:51 2023 -0500
+
+    fix nextauth clientid clientsecret types
+
+[33mcommit 44a675b768b7f70d2876fe8834efd2f720396ed5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jan 16 20:37:24 2023 -0500
+
+    fix sponsor spacing
+
+[33mcommit 1db7e7d3d0d7e1c58e7c397a93cac2b786f1e787[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Jan 15 17:54:58 2023 -0500
+
+    fix login redirect
+
+[33mcommit b5f8a5ce44f9fbb1c5dcaf3dbfe6650ea251c7fa[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Sun Jan 15 17:17:32 2023 -0500
+
+    do stuff
+
+[33mcommit 33791eaa25deb61fbdcfaae49e6af6cf531f274d[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Sun Jan 15 15:30:39 2023 -0500
+
+    added application formstate
+
+[33mcommit f629c789d23677cf8d8064901422af99b5315d78[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Jan 15 14:12:37 2023 -0500
+
+    remove social media from nav and add mlh banner
+
+[33mcommit e939516807592b2924a0c9a00f6b905d84612aff[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 13 09:11:46 2023 -0500
+
+    put mobile menu in center of the screen
+
+[33mcommit 603a6851e34c478578f498eca756f400f3f62fe3[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 13 09:06:09 2023 -0500
+
+    make mobile menu fixed
+
+[33mcommit 5b27fc4588a6fc0015e5cbf6975cf023825f199c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 12 13:21:21 2023 -0500
+
+    add basic login and logout with callbacks
+
+[33mcommit e2db466f68b44c2436dea56da4d6e6b1620e238e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 12 09:08:02 2023 -0500
+
+    idk:
+
+[33mcommit df06af37893da765823df6ba9eb4a34c391fc641[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Jan 12 08:48:20 2023 -0500
+
+    hi
+
+[33mcommit f8d675d0b938e7177f98b9bfa6265d0ec99c0eea[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Jan 12 08:35:34 2023 -0500
+
+    idk tyler
+
+[33mcommit dd5b0ebb738677c47e875ad2c04f6792e3d31861[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jan 11 08:26:54 2023 -0500
+
+    change faq content
+
+[33mcommit 2780252ef9eba8ce5d9be12e2530471aec5b8117[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Wed Jan 11 08:25:31 2023 -0500
+
+    resolve merge
+
+[33mcommit 744e8a027c770e952c81a9c39e7ba6cc537eaf43[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Jan 11 07:59:11 2023 -0500
+
+    change schedule start date
+
+[33mcommit 017b19923cf453919e218844aab01e7210d169f5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 10 17:38:06 2023 -0500
+
+    fix build errors
+
+[33mcommit 1f46c679581fb75e293583c9e87d9f06e8775291[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 10 17:33:10 2023 -0500
+
+    delete admin file
+
+[33mcommit 44d9693dbc6785bcffb359c711a8232d1aa4f9cf[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 10 17:30:40 2023 -0500
+
+    change date
+
+[33mcommit 02320a70e1a56173bab1dc8c74c3b5b4a25ce111[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 10 11:36:53 2023 -0500
+
+    edit faq text size and contents
+
+[33mcommit 52e2de6d250f3d47dddadbc41b75bef090ec548b[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Tue Jan 10 08:26:18 2023 -0500
+
+    add buttons to dashboard
+
+[33mcommit c4a13c8830aa06595ceb307cc6475eba0160232c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jan 9 10:24:25 2023 -0500
+
+    change sans body font to libre franklin
+
+[33mcommit b0b731f9624ae0628d696d35ec51cd34c8183028[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Mon Jan 9 09:08:19 2023 -0500
+
+    add social media icons to mobile menu
+
+[33mcommit 68b58356cd750d773053ec110c82c5a1e816a6d7[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jan 9 08:33:46 2023 -0500
+
+    fix social media icon links, fix nbsp typos in faq
+
+[33mcommit db7e4fb89a9d63c39eeb1dd2b58a5db8f291bca3[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Jan 8 13:40:02 2023 -0500
+
+    change nav padding and add comment reminder
+
+[33mcommit ca4d47311cb05739ebc0328f4ea43ea49853bc2c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jan 7 22:40:16 2023 -0500
+
+    change social media icons to not square and add to navbar
+
+[33mcommit d325ac782223d8898ff34a3405c696eb41c5bf3d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jan 7 21:39:44 2023 -0500
+
+    add faq content and center front
+
+[33mcommit abe4636113a449218a1ca6e87f82e1629c9ef802[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jan 7 19:08:12 2023 -0500
+
+    make small edits
+
+[33mcommit 7788aee4c651d7ffeec2b3489ea10c8fb2ec7915[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jan 7 14:51:35 2023 -0500
+
+    add sepia background, edit footer, align navbar and front section
+
+[33mcommit e8257b000e8661ecb835bccb954213f7bd64c2ed[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 6 11:44:24 2023 -0500
+
+    disable eslint rules, change sponsor component to anchor tag, fix faq click
+
+[33mcommit 6f85cd084a7c81e6a7d8c286f2abebea253b000b[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 6 09:07:59 2023 -0500
+
+    add optional sponsor href
+
+[33mcommit c8fe6bcf1ba8c8ce446430373c9847a22db5c08b[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Fri Jan 6 09:07:17 2023 -0500
+
+    made footer icons
+
+[33mcommit f5ff98b279b9496770a13f30498bc50d0be365f8[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Jan 6 08:23:40 2023 -0500
+
+    gitignore yarn.lock
+
+[33mcommit 0356cc4b8cb70d5f5641a8f0a3c894e76bb2745d[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Jan 5 08:31:32 2023 -0500
+
+    add links
+
+[33mcommit a7cdc8c8bd155fa8bf9b4775caf720b6623cff6d[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Thu Jan 5 08:24:54 2023 -0500
+
+    Changed sponsor aspect ratio
+
+[33mcommit 8e466eb4461a13b5d412034626382650474713c0[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Wed Jan 4 22:22:50 2023 -0500
+
+    create footer
+
+[33mcommit 3563868986ad0652a5c158799f58046bee754c53[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 3 21:46:22 2023 -0500
+
+    adjust spacings and fix navbars
+
+[33mcommit faeb91b2ce13a6cfb9dcd4e45e4ca36946bfbde4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 3 13:58:56 2023 -0500
+
+    redirect 404 to home page
+
+[33mcommit 2f9b3ffc9e6ad3c8e9c90b204afa45fca4e24037[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 3 13:35:43 2023 -0500
+
+    add fonts via @next/font
+
+[33mcommit efe26d27bdd78628a1409c528ac135788f85ac9e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jan 3 09:06:48 2023 -0500
+
+    change google analytics script to next script and move out of head
+
+[33mcommit 18a5c132c89e11ad700615796937bd1467359e48[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Mon Jan 2 17:27:25 2023 -0500
+
+    add sponsors
+
+[33mcommit d4374d66da960cdcca49ed490b93d06366cc4539[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Mon Jan 2 17:17:34 2023 -0500
+
+    add login button
+
+[33mcommit f9a05d9ac5ffe4b6b44d437cd8a44bd6b226d565[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Mon Jan 2 16:25:17 2023 -0500
+
+    separate faq columns
+
+[33mcommit a29ed46dbb4bd4b89651b23dafcf89379db8c27a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Mon Jan 2 14:21:02 2023 -0500
+
+    fix mobile navbar
+
+[33mcommit c99b54a1e3912dfdcbc9517ff7aeeebb3a99fefd[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sun Jan 1 19:13:17 2023 -0500
+
+    temporarily fix background color margins
+
+[33mcommit 9a4db5f6cf5561663bc3ddfae424f54aed81f4b7[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Dec 30 21:45:25 2022 -0500
+
+    remove vercel analytics
+
+[33mcommit 060dbf89d31ae499ee8a792ac97876a60484a0f5[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Dec 30 21:37:12 2022 -0500
+
+    add google analytics:
+
+[33mcommit 0bebec10cf45a4bf5256c956ca86ad985dcb2262[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Dec 30 21:00:12 2022 -0500
+
+    add vercel analytics and eslint import resolver for typescript
+
+[33mcommit 66d9f377f2b70f5e92671131db7583a99ff88657[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Dec 30 20:51:40 2022 -0500
+
+    add back eslint self closing tag
+
+[33mcommit 5111230982179438b3f1339ecd54916998eae4be[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Dec 30 14:36:09 2022 -0500
+
+    add colors and logo and format tailwind:
+
+[33mcommit e6fdacba4a3194f62d9231a7100b807c6de1e746[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Dec 22 13:38:39 2022 -0500
+
+    fix headings
+
+[33mcommit 0f82eac4ac98442fbf99e49865b2e53f7c657c21[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Dec 22 12:00:12 2022 -0500
+
+    fix faq animation:
+
+[33mcommit b82ea3d61918eb798f0d0614d14228cf1276cb75[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Dec 22 11:48:10 2022 -0500
+
+    idk
+
+[33mcommit 98e455e45e02bb50290ac96955d9540e219fed96[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Dec 22 11:47:30 2022 -0500
+
+    animate faq thing
+
+[33mcommit 3cc04532584e337b61f1a1659a12b405ffd137b4[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Dec 22 11:19:59 2022 -0500
+
+    faq accordian
+
+[33mcommit 13250f8248dbf2a6034f07dac67b9f0c23bdd4bc[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Thu Dec 22 09:11:04 2022 -0500
+
+    faq
+
+[33mcommit 605e17c3e6447b6146ca149ca4c2cd6e1fe5d3b5[m
+Author: Tyler Nguyen <tytyprime@gmail.com>
+Date:   Wed Dec 21 08:54:13 2022 -0500
+
+    remove env:
+
+[33mcommit 21abfb1696d41bd0cf80f035cf6123a2e83cedb4[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Dec 21 08:50:09 2022 -0500
+
+    gitignore env
+
+[33mcommit 84d2c7beff477d08b2bb68164c954b2253723093[m
+Merge: f6ba49ec 3ba33925
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Wed Dec 21 08:42:41 2022 -0500
+
+    resolve merge
+
+[33mcommit f6ba49ec7f62c64dd465a038d37965722fe32fbc[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Wed Dec 21 08:41:28 2022 -0500
+
+    add faq
+
+[33mcommit 3ba33925df774a51129b34abc6a0a379b0ea9d2a[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Dec 21 08:40:19 2022 -0500
+
+    fix build
+
+[33mcommit 85575d32ac03988498ce9d6105d7e84479d9c208[m
+Author: tyler nguyen <tylernguyen@tylers-MacBook-Pro.local>
+Date:   Wed Dec 21 08:31:01 2022 -0500
+
+    make normal
+
+[33mcommit b76085ac1ade3ef85d872d5ac57131c714b7eece[m
+Author: tyler nguyen <tylernguyen@tylers-MacBook-Pro.local>
+Date:   Wed Dec 21 08:16:00 2022 -0500
+
+    add faq
+
+[33mcommit 7172948150a4f0cb2791d6ea90e1280b447830a6[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Tue Dec 20 08:48:31 2022 -0500
+
+    test idk
+
+[33mcommit e70103c1c56f206f1b1519573b3d7451236cf335[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Dec 20 08:30:30 2022 -0500
+
+    rm cached
+
+[33mcommit f44321e1bc59952f24e09561b8b0cbd761280882[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Dec 20 08:28:50 2022 -0500
+
+    no idea
+
+[33mcommit dba29d078f65706de3d00358d197cd4adac398a2[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Dec 20 08:27:41 2022 -0500
+
+    resolve merge
+
+[33mcommit e14b7f9a79a254027f98318842c15b6659c26339[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Mon Dec 19 16:54:32 2022 -0500
+
+    add about section columns
+
+[33mcommit 998ead98c830657c1c99afd35fbfd97ef22e5177[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Mon Dec 19 16:09:21 2022 -0500
+
+    add about section
+
+[33mcommit 158f5b2f0b441ee3c19081b42f3a5adb50c1292e[m
+Merge: 3d52a5c8 59ab374a
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Mon Dec 19 08:43:32 2022 -0500
+
+    Merge branch 'master' of https://github.com/alexbluo/hack-the-hill-2023
+
+[33mcommit 3d52a5c891999fba9f7b0f352567bf48137e2725[m
+Author: Evan Marlow <itsarlow@gmail.comgit config --global user.email itsarlow@gmail.com>
+Date:   Mon Dec 19 08:42:07 2022 -0500
+
+    idk
+
+[33mcommit 59ab374a86918da6fb8fe00d68c6954eed948793[m
+Author: tyler nguyen <tylernguyen@tylers-MacBook-Pro.local>
+Date:   Mon Dec 12 09:09:45 2022 -0500
+
+    navbar working
+
+[33mcommit e48594ba6473fdf67991b7478ac6cac6feb6fdc1[m
+Author: tyler nguyen <tylernguyen@jrnvidybk05.inst.hcpss.org>
+Date:   Wed Dec 7 08:56:19 2022 -0500
+
+    add navbar
+
+[33mcommit 701bada13cc14d722546bdd95a8bac0cbb4f8209[m
+Author: tyler nguyen <tylernguyen@tylers-MacBook-Pro.local>
+Date:   Mon Dec 12 08:26:21 2022 -0500
+
+    idk
+
+[33mcommit ac031dfab8edf62a347dadb2957df8d169a30e61[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Dec 7 09:15:23 2022 -0500
+
+    github debugging
+
+[33mcommit 674825e8fad954b739e43aabd265ed5d74d8635e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Nov 17 08:14:03 2022 -0500
+
+    finally fix index.handler undefined or not exported
+
+[33mcommit cebf8d1b23a8c63a7623c96f29977fbc6e4a2d1d[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Nov 16 08:41:24 2022 -0500
+
+    idk
+
+[33mcommit 01c7f52f11a237a66f7899530acec96672179010[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Nov 16 08:23:49 2022 -0500
+
+    set up db
+
+[33mcommit 8e086f6999f7e032a26da375e64a3eee13050ca3[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Oct 26 14:04:17 2022 -0400
+
+    fix weird bug thing
+
+[33mcommit 3db46c0f736a49fa4d7495235ce7fcfb6e79a6fe[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Oct 26 13:26:53 2022 -0400
+
+    change sls port, add sourcemap to webpack, gitignore .next
+
+[33mcommit d74907737751665faf2a9097cf4e628c826087a1[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Oct 19 12:16:08 2022 -0400
+
+    mostly finish webpack setup
+
+[33mcommit 8c3b8c4185eb31cc806f8626af4e706760178f20[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Oct 19 08:09:29 2022 -0400
+
+    add broken webpack config and eslint
+
+[33mcommit c97277df51fac703b903681724d2a982690eaf21[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Oct 1 18:30:36 2022 -0400
+
+    ignore config files eslint typescript
+
+[33mcommit 00d80c5cb2656ffa80203ee3be32907731fa11da[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 28 16:00:16 2022 -0400
+
+    fix tsconfigs and configure serverless offline dev script
+
+[33mcommit 5eb4bc8505118ec7e306c63aa05b0fb80cc83843[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 28 15:33:36 2022 -0400
+
+    clean up gitignore:
+
+[33mcommit 6dd2c7f7570f01192172fd2451a1a2476a358a0e[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 28 14:07:46 2022 -0400
+
+    resolve packages and extend base tsconfig
+
+[33mcommit 0a237606539692c50a81059e04fd45888539089c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 28 10:36:54 2022 -0400
+
+    fully remove turbo and add yarn workspaces
+
+[33mcommit d62c9fd03bc09a4e05401afd123b80bcc89cd2a9[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 28 10:34:13 2022 -0400
+
+    revert back to before turbo
+
+[33mcommit 5acd6c1c061993fd5d19e38b4833c5d6c9b044b6[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 28 08:40:57 2022 -0400
+
+    example push
+
+[33mcommit 745079483f7ac2324aec023de21b86281c41b50c[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Fri Sep 23 07:37:06 2022 -0400
+
+    move frontend and backend into apps
+
+[33mcommit 69bc2700c761894be3964b25d5d4d8ee2da6a765[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Thu Sep 22 13:38:31 2022 -0400
+
+    add turbo and init backend
+
+[33mcommit 27e054456d6af775a9b69bc4a0a7363e71e1eaf2[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Wed Sep 14 11:14:59 2022 -0400
+
+    lay out sections, pages, components
+
+[33mcommit 0954918e59b8a7b72a9c76a84efb5aa7a9720d56[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Sat Jul 23 00:47:46 2022 -0400
+
+    clean up boilerplate and add linting
+
+[33mcommit cb2461ec48aa5c05d6a34aaf703139c351024b84[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jul 12 22:04:58 2022 -0400
+
+    add tailwind
+
+[33mcommit d82692b80606174264a3282f1b4e96321f952eb6[m
+Merge: 39278bdc b2732463
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jul 12 22:01:57 2022 -0400
+
+    Merge branch 'master' of https://github.com/alexbluo/hack-the-hill-2023
+    "resolve initial commit merge"
+
+[33mcommit 39278bdc7d632e7a2ebaa05cdc4f9a2c0c89d2b8[m
+Author: Alex Luo <alexbluo01@gmail.com>
+Date:   Tue Jul 12 22:01:27 2022 -0400
+
+    inital commit
+
+[33mcommit b2732463faedaa7afa5448a1e96be84ed1252307[m
+Author: Alex Luo <89435003+alexbluo@users.noreply.github.com>
+Date:   Tue Jul 12 22:00:54 2022 -0400
+
+    Initial commit
