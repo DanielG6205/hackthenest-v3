@@ -96,9 +96,15 @@ const SponsorsSection = () => {
             tier="silver"
           /> */}
           <Sponsor
-            src="/sponsors/2025//intelligent-office.svg"
+            src="/sponsors/2025/intelligent-office.svg"
             alt="Intelligent Office silver sponsorship"
             href="https://www.intelligentoffice.com/"
+            tier="silver"
+          />
+          <Sponsor
+            src="/sponsors/2025/wolfram.png"
+            alt="Wolfram silver sponsorship"
+            href="https://www.wolfram.com/"
             tier="silver"
           />
          {/*  <Sponsor

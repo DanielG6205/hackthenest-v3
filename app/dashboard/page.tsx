@@ -60,7 +60,7 @@ const Dashboard = async ({ searchParams }: Props) => {
             />
             <DashboardButton
               name="rsvp"
-              href="/https://docs.google.com/forms/d/1ewVmgWbLkI3XupjTlagUc_9_19PnJoVV1nq7DBzCoco" // https://docs.google.com/forms/d/e/1FAIpQLSfrWshTK47aKoFiT1wulM4JW_czmCoN2E-S_KqBO9VWmIF26Q/viewform?usp=dialog
+              href="https://docs.google.com/forms/d/1ewVmgWbLkI3XupjTlagUc_9_19PnJoVV1nq7DBzCoco" // https://docs.google.com/forms/d/e/1FAIpQLSfrWshTK47aKoFiT1wulM4JW_czmCoN2E-S_KqBO9VWmIF26Q/viewform?usp=dialog
               status="INCOMPLETE"
             />
           </div>
