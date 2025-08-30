@@ -28,25 +28,24 @@ const AboutSection = () => {
         </Stat>
         <Stat stat="$12,000+" caption="prizes">
           Winning teams will receive prizes from a $12,000+ prize pool!
-          Below is a from our last hackathon:
           <div className="my-2">
             <p className="font-medium">Grand Prize</p>
-            <p>$600, $200 X-Camp Credit (x4)</p>
+            <p>$600 (x4)</p>
             <p className="font-medium">Second Place</p>
-            <p>$150 X-Camp Credit (x4), 1Password One Year (x10), Interview Cake License(x10)</p>
+            <p>1Password One Year (x10), Interview Cake License(x10)</p>
             <p className="font-medium">Third Place</p>
-            <p>$100 X-Camp Credit (x4), 1Password One Year (x5), Interview Cake License(x5)</p>
+            <p>1Password One Year (x5), Interview Cake License(x5)</p>
 
             <br></br>
 
             <p className="font-medium">Craig Newmark Philanthropies Cybersecurity Track</p>
-            <p>Sony WH-CH720N Noise Cancelling Headphones (x4)</p>
-            <p className="font-medium"> SJA Social Justice Track </p>
-            <p>$400 Seed Funding</p>
-            <p className="font-medium">Environmental Track</p>
-            <p>24-In HD Monitor (x4)</p>
+            <p>Sony WH-CH520 Wireless Headphones (x4)</p>
+            <p className="font-medium"> Web3 </p>
+            <p>Speaker</p>
+            <p className="font-medium">Wolfram Track</p>
+            <p>Wolfram Award (x4)</p>
             <p className="font-medium">Beginner Track</p>
-            <p>No Starch Press Books (x4), $25 AoPS Gift Card (x4)</p>
+            <p>$25 AoPS Gift Card (x4)</p>
 
             <br></br>
 

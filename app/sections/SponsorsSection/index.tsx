@@ -59,6 +59,13 @@ const SponsorsSection = () => {
             </div>
           </div>
         </a>       
+        {/* diamond */}
+        <Sponsor
+          src="/sponsors/2025/solana.png"
+          alt="Solana Foundation Diamond sponsorship"
+          href="https://solana.org/"
+          tier="diamond"
+        />
         {/* gold */}
         <div className="grid gap-6">
          {/*  <Sponsor
