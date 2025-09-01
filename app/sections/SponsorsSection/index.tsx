@@ -61,7 +61,7 @@ const SponsorsSection = () => {
         </a>       
         {/* diamond */}
         <Sponsor
-          src="/sponsors/2025/solana.png"
+          src="/sponsors/2025/Solana.png"
           alt="Solana Foundation Diamond sponsorship"
           href="https://solana.org/"
           tier="diamond"
