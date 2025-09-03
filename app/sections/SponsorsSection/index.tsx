@@ -141,12 +141,12 @@ const SponsorsSection = () => {
             href="https://artofproblemsolving.com/"
             tier="bronze"
           />
-         {/* <Sponsor
-            src="/sja.png"
+         <Sponsor
+            src="/2025/sja.png"
             alt="SJA sponsorship"
             href="https://www.studentjusticealliance.org/"
             tier="bronze"
-          /> */}
+          /> 
           <Sponsor
             src="/sponsors/2025/1password.png"
             alt="1Password sponsorship"
