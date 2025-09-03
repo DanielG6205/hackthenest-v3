@@ -79,16 +79,16 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Workshop 1",
-    time: "10:30 - 11:00",
-    location: "coming soon",
+    name: "Setting up a Solana coding environment",
+    time: "10:30 - 11:15",
+    location: "p&g",
     description:
-      "coming soon", // todo
+      "We would go over setting up the different parts of a solana coding environment from smart contracts to frontend", // todo
     status: "neutral",
   },
   {
     name: "Workshop 2",
-    time: "11:00 - 12:00",
+    time: "11:30 - 12:00",
     location: "coming soon",
     description: "coming soon",
     status: "neutral",
@@ -109,11 +109,11 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Workshop 4",
+    name: "Wolfram Research",
     time: "2:00 - 3:00",
-    location: "coming soon",
+    location: "p&g",
     description:
-      "coming soon",
+      "Wolfram Research is a developer of computational software products, including Mathematica and Wolfram|Alpha. This workshop will introduce applications of Wolfram’s tech and get attendees started with coding in the proprietary Wolfram Language. It will also overview the company’s student programs and some of the work of founder Dr. Stephen Wolfram",
     status: "neutral",
   },
   {
