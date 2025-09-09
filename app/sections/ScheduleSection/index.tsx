@@ -132,7 +132,7 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Event 1",
+    name: "Geoguesser Tournament",
     time: "5:00 - 6:00",
     location: "P&G",
     description: 'Put your geography skills to the test in the GeoGuessr Tournament—can you pinpoint the world faster than anyone else?',
@@ -146,10 +146,10 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Event 2",
+    name: "Typing Contest",
     time: "8:00 - 9:00",
-    location: "coming soon",
-    description: "coming soon",
+    location: "P&G",
+    description: "How fast can you type? Find out in our Typing Contest and compete for the title of fastest typist!",
     status: "neutral",
   },
   {
