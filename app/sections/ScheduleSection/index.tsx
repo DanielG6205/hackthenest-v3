@@ -87,10 +87,10 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Workshop 2",
+    name: "Intro to Java",
     time: "11:30 - 12:00",
-    location: "coming soon",
-    description: "coming soon",
+    location: "P&G",
+    description: "Learn Java basics and build your first programs in this beginner-friendly workshop—perfect for hackathon starters!",
     status: "neutral",
   },
   {
@@ -132,10 +132,10 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Geoguesser Tournament",
+    name: "Typing Contest",
     time: "5:00 - 6:00",
     location: "P&G",
-    description: 'Put your geography skills to the test in the GeoGuessr Tournament—can you pinpoint the world faster than anyone else?',
+    description: 'How fast can you type? Find out in our Typing Contest and compete for the title of fastest typist!',
     status: "neutral",
   },
   {
@@ -146,17 +146,17 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Typing Contest",
+    name: "Geoguesser Tournament",
     time: "8:00 - 9:00",
     location: "P&G",
-    description: "How fast can you type? Find out in our Typing Contest and compete for the title of fastest typist!",
+    description: "Put your geography skills to the test in the GeoGuessr Tournament—can you pinpoint the world faster than anyone else?",
     status: "neutral",
   },
   {
-    name: 'Event 3',
+    name: 'Kareoke',
     time: '9:00 - 10:00',
-    location: 'coming soon',
-    description: 'coming soon',
+    location: 'P&G',
+    description: 'Karaoke: sing loud, laugh harder, and make every song a party!',
     status: 'neutral',
   },
   {
