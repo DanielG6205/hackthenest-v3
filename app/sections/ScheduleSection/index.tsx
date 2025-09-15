@@ -101,11 +101,11 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Workshop 3",
+    name: "Competitive Coding (USACO)",
     time: "1:00 - 2:00",
-    location: "coming soon",
+    location: "P&G",
     description:
-      "coming soon ",
+      "Learn about the USACO (USA Computing Olympiad) competition, how to get started, and some common algorithms and problem-solving techniques.",
     status: "neutral",
   },
   {
@@ -117,18 +117,26 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: "Workshop 5",
-    time: "3:00 - 4:00",
-    location: "coming soon",
+    name: "Creating a Programming Language",
+    time: "3:00 - 3:30",
+    location: "P&G",
     description:
-      "coming soon",
+      "Have you ever wondered what it would be like to create a programming language? This workshop will teach basic theory of programming languages and context-free grammars, giving you the knowledge to start creating your own languages!",
     status: "neutral",
   },
   {
-    name: "Workshop 6",
-    time: "4:00 - 5:00",
-    location: "coming soon",
-    description: "coming soon",
+    name: "Numerical Methods",
+    time: "3:30 - 4:00",
+    location: "P&G",
+    description:
+      "Often in mathematics there are equations that simply cannot be solved exactly. In these cases, it is often sufficient to gain a strong estimation of the solution through the use of programming. This workshop will cover some notable algorithms for finding the roots of polynomials, performing integration, and solving differential equations.",
+    status: "neutral",
+  },
+  {
+    name: "Cybersecurity: Hacking with Kali Linux and Metasploit",
+    time: "4:00 - 4:45",
+    location: "P&G",
+    description: "Use Kali Linux's preinstalled hacking tools to breach a vulnerable Windows system and learn what hackers can do once they gain access.",
     status: "neutral",
   },
   {
@@ -207,7 +215,7 @@ const sunday: Block[] = [
     name: "Breakfast",
     time: "8:00 - 9:00",
     location: "Kitchen",
-    description: "Final stretch! Energize with ____.",
+    description: "Final stretch! Energize with muffins?",
     status: "neutral",
   },
   {
