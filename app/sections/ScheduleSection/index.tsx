@@ -161,7 +161,7 @@ const saturday: Block[] = [
     status: "neutral",
   },
   {
-    name: 'Kareoke',
+    name: 'Karaoke',
     time: '9:00 - 10:00',
     location: 'P&G',
     description: 'Karaoke: sing loud, laugh harder, and make every song a party!',
