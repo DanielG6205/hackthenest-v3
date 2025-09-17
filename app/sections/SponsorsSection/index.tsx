@@ -55,7 +55,7 @@ const SponsorsSection = () => {
               />
             </div>
             <div className=" w-full mt-2 text-center text-lg font-bold sm:text-xl">
-              The Official Drink of Hack The Nest
+              Hack The Nest&apos;s Proud Beverage Partner
             </div>
           </div>
         </a>       
@@ -157,6 +157,12 @@ const SponsorsSection = () => {
             src="/sponsors/2025/interview-cake.svg"
             alt="Interview cake sponsorship"
             href="https://www.interviewcake.com/"
+            tier="bronze"
+          /> 
+           <Sponsor
+            src="/sponsors/2025/wegmans.png"
+            alt="Wegmans cake sponsorship"
+            href="https://www.wegmans.com/"
             tier="bronze"
           /> 
         </div>
