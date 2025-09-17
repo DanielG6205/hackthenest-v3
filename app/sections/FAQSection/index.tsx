@@ -39,7 +39,7 @@ const questions: Question[][] = [
     {
       question: "Who organized this event?",
       answer:
-        "Hack the Nest was built by high schoolers from River Hill and Glenelg High School in Howard County, Maryland. We are supported by MLH, Hack Club, and our generous teachers and sponsors.",
+        "Hack the Nest was built by high schoolers mainly from River Hill in Howard County, Maryland. We are supported by MLH, Hack Club, and our generous teachers and sponsors.",
     },
   ],
   [
@@ -85,7 +85,7 @@ const questions: Question[][] = [
     {
       question: "What are the overnight arrangements?",
       answer:
-        "We'll have a dedicated sleeping room and a very limited supply of air mattresses and sleeping bags on a first come first serve basis. Feel free to bring your own blanket, bed, or... bouncy castle?",
+        "We do not provide housing. However, there will be a dedicated sleeping room available, along with a very limited number of air mattresses—first come, first served. You're also welcome to sleep at your workspace, as long as you're not blocking any hallways or exits. Feel free to bring your own blanket, sleeping bag, air mattress, or... a bouncy castle? ",
     },
     {
       question: "I have more questions!",
