@@ -168,10 +168,10 @@ const saturday: Block[] = [
     status: 'neutral',
   },
   {
-    name: "Event 4",
+    name: "Talent Show?",
     time: "10:00 - 11:00",
-    location: "coming soon",
-    description: "coming soon!",
+    location: "Common Area",
+    description: "Will there be a talent show? Maybe.",
     status: "neutral",
   },
 ];
