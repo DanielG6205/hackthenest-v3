@@ -5,6 +5,7 @@ node_modules
 
 # testing
 /coverage
+/emails
 
 # next.js
 .next
